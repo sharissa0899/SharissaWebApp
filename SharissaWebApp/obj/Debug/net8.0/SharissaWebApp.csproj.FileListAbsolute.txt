@@ -28,3 +28,4 @@ C:\Users\shari\OneDrive\Desktop\SharissaWebApp\SharissaWebApp\obj\Debug\net8.0\r
 C:\Users\shari\OneDrive\Desktop\SharissaWebApp\SharissaWebApp\obj\Debug\net8.0\SharissaWebApp.pdb
 C:\Users\shari\OneDrive\Desktop\SharissaWebApp\SharissaWebApp\obj\Debug\net8.0\SharissaWebApp.genruntimeconfig.cache
 C:\Users\shari\OneDrive\Desktop\SharissaWebApp\SharissaWebApp\obj\Debug\net8.0\ref\SharissaWebApp.dll
+C:\Users\shari\OneDrive\Desktop\SharissaWebApp\SharissaWebApp\obj\Debug\net8.0\SharissaWebApp.sourcelink.json
