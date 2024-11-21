@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SharissaWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18108c968351a4a8bcc51867f4d6e1e47a6b4775")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e92d8ac60c030d5f24f03cf0ef765e3b0eabbf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharissaWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharissaWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
