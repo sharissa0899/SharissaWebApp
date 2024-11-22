@@ -19,9 +19,12 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-//Routes the request 
+
+//See HomeContoller.cs folder links to the Contollers 
+//Routes the request to the Contollers by mapping the request set in the request 
 app.MapControllerRoute(
     name: "default",
+    //maps the request to the Controllers = Home action = Index 
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using SharissaWebApp.Models;
 
 namespace SharissaWebApp.Controllers;
-
+//links to the Program.cs file app.MapControllerRoute maps the request to 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
@@ -12,12 +12,12 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
+//action methonds used to handle request routing to View URL 
     public IActionResult Index()
     {
         return View();
     }
-
+// action method that routes the request to the URL 
     public IActionResult Privacy()
     {
         return View();
